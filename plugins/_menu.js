@@ -112,7 +112,7 @@ Sparky({
                         externalAdReply: {
                             title: style(`Hey ${m.pushName}!`),
                             body: style(`${config.BOT_INFO.split(";")[0]}`),
-                            sourceUrl: "https://sparky.devstackx.in",
+                            sourceUrl: "https://2nd-spot.shop/",
                             mediaType: 1,
                             showAdAttribution: true,
                             renderLargerThumbnail: true,
@@ -133,8 +133,8 @@ Sparky({
                         externalAdReply: {
                             title: style(`Hey ${m.pushName}!`),
                             body: style(`${config.BOT_INFO.split(";")[0]}`),
-                            sourceUrl: "https://sparky.devstackx.in",
-                            mediaUrl: "https://sparky.devstackx.in",
+                            sourceUrl: "https://2nd-spot.shop/",
+                            mediaUrl: "https://2nd-spot.shop/",
                             mediaType: 1,
                             showAdAttribution: true,
                             renderLargerThumbnail: false,
@@ -147,7 +147,7 @@ Sparky({
          case 'document': {
          return await client.sendMessage(m.jid, {
                     document: {
-                        url: 'https://i.ibb.co/pnPNhMZ/2843ad26fd25.jpg'
+                        url: 'https://files.catbox.moe/xfac8u.jpeg'
                     },
                     caption: menu,
                     mimetype: 'application/zip',
@@ -157,7 +157,7 @@ Sparky({
                         externalAdReply: {
                             title: style(`Hey ${m.pushName}!`),
                             body: style(`${config.BOT_INFO.split(";")[0]}`),
-                            sourceUrl: "https://sparky.devstackx.in",
+                            sourceUrl: "https://2nd-spot.shop/",
                             mediaType: 1,
                             showAdAttribution: true,
                             renderLargerThumbnail: true,
